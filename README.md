@@ -29,7 +29,7 @@ source venv/bin/activate
 
 # 3. Instalar el driver de Neo4j
 pip install neo4j
-
+```
 ### Windows (PowerShell)
 ```PowerShell
 
@@ -41,7 +41,7 @@ python -m venv venv
 
 # 3. Instalar el driver de Neo4j
 pip install neo4j
-
+```
 ## 3. Ejecución del Proyecto
 
 # Inicializar la base de datos (ejecutar una sola vez al inicio):
